@@ -1,3 +1,4 @@
+%实现两幅图像淡入淡出一秒钟视频。
 clear
 img = imread('img\cd1.jpg');
 img2 = imread('img\cd2.jpg');

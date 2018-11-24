@@ -1,3 +1,4 @@
+%给图像添加不同的噪声（椒盐/高斯/瑞利），并去噪。
 clear
 img = imread('img\cd1.jpg');
 subplot(221), imshow(img), title('原始图像');

@@ -1,3 +1,4 @@
+%图像增强的方法，直方图均衡化。
 img = imread('img\cd1.jpg');
 subplot(221), imshow(img), title('原始图像');
 
