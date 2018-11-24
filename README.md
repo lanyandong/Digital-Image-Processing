@@ -1,7 +1,7 @@
 # Digital-Image-Processing
 
 ## MATLAB programming to achieve digital image processing examples.
-![cd](http://wx1.sinaimg.cn/small/00709Ldkly1fxiz12st9rj30na0ft104.jpg)
+![cd](/image_change/cd.png)
 
 
 ## Including...
